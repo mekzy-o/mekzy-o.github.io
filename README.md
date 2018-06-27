@@ -1,4 +1,5 @@
 # Pixel Art Maker Project
+This pixel art maker project is implemented using HTML, CSS, and JavaScript (jQuery library).
 
 ## Table of Contents
 
@@ -15,7 +16,7 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
-## Guidelines
+## Guidelines for using the UI design of the Pixel Art Maker
 - Input the number of rows and columns
 - Click Submit button to generate your grid
 - Choose your prefered color from the color palette
