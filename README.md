@@ -7,8 +7,7 @@ This pixel art maker project is implemented using HTML, CSS and Javascript(jQuer
 - Choose your prefered color from the color palette
 - Draw on the grid using the mouse by clicking and moving
 - Double click a cell to set it's color back to the default
-- Click Reset button to clear the grid;
-- Start over.
+- Click Reset button to clear the grid and start over.
 
 ## Project Link
-Link to my pixel art maker project: [Click here!](https://mekzy-o.github.io/)
+:+1: Link to my pixel art maker project: [Click here!](https://mekzy-o.github.io/)
