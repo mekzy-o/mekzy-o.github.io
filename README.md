@@ -10,4 +10,4 @@ This pixel art maker project is implemented using HTML, CSS and Javascript(jQuer
 - Click Reset button to clear the grid and start over.
 
 ## Project Link
-:+1: Link to my pixel art maker project: [Click here!](https://mekzy-o.github.io/)
+:White Right Pointing Backhand Index: Link to my pixel art maker project: [Click here!](https://mekzy-o.github.io/)
