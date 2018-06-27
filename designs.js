@@ -6,7 +6,7 @@ $(function (){
   let heightInput = $('#inputHeight');
   let weightInput = $('#inputWidth');
 
-//select canvas
+//Select canvas
   const canvas = $('#pixelCanvas');
 
 //When size is submitted by the user, call makeGrid()
@@ -56,7 +56,8 @@ $(function (){
       if ($(this).hasClass('transparent')) {
         $(this).toggleClass('transparent');
         $(this).css('background-color', color);
-      } else {
+      }
+      else {
         $(this).toggleClass('transparent');
         $(this).css('background-color', 'transparent');
       }
