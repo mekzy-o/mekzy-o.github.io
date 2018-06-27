@@ -10,4 +10,4 @@ This pixel art maker project is implemented using HTML, CSS and Javascript(jQuer
 - Click Reset button to clear the grid and start over.
 
 ## Project Link
-To view the pixel art maker, click this link :point_right:[https://mekzy-o.github.io/](https://mekzy-o.github.io/)
+To view the pixel art maker,click this link :point_right::**[https://mekzy-o.github.io/](https://mekzy-o.github.io/)**
