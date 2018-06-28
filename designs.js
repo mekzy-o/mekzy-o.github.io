@@ -15,7 +15,7 @@ $(function (){
 
  //Submit button size changes to fit grid size
     		const gridRows = heightInput.val();
-   		const gridCol = weightInput.val();
+   		const gridCol  = widthInput.val();
 
  //Tbody is set to the table
     		canvas.append('<tbody></tbody>');
