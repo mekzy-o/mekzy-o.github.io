@@ -2,6 +2,7 @@ $(function (){
 
 //Select color input
   	const colorPicker = $('#colorPicker');
+	
 //Select size input
   	let heightInput = $('#inputHeight');
   	let widthInput 	= $('#inputWidth');
