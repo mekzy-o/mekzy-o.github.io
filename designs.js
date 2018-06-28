@@ -1,20 +1,20 @@
 $(function (){
 
-//Select color input
+//Selecting color input
   	const colorPicker = $('#colorPicker');
 	
-//Select size input
+//Selecting size input
   	let heightInput = $('#inputHeight');
   	let widthInput 	= $('#inputWidth');
 
-//Select canvas
+//Selecting canvas
   	const canvas = $('#pixelCanvas');
 
-//When size is submitted by the user, call makeGrid()
+//Function to make grid when size is submitted by the user
   	function makeGrid() {
    		canvas.find('tbody').remove();
-
- //Submit button size changes to fit grid size
+		
+//Variables for collecting user input, to specify the size of the grid
     		const gridRows = heightInput.val();
    		const gridCol  = widthInput.val();
 
@@ -34,7 +34,7 @@ $(function (){
     		}
   	}
 
-//Update grid when Submit button is clicked
+//Update grid when Submit button is clicked by calling makeGrid Function
  	$(document).ready(function(){
     		$('input[type="submit"]').on('click', function(event){
       			event.preventDefault();
@@ -45,6 +45,7 @@ $(function (){
 	$('#resetGrid').click(function(event){
 	  	event.preventDefault();
   		$('#pixelCanvas').find('tr').remove();
+		
   	});
   
 //Toggle grid color
