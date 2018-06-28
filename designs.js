@@ -4,7 +4,7 @@ $(function (){
   	const colorPicker = $('#colorPicker');
 //Select size input
   	let heightInput = $('#inputHeight');
-  	let weightInput = $('#inputWidth');
+  	let widthInput 	= $('#inputWidth');
 
 //Select canvas
   	const canvas = $('#pixelCanvas');
