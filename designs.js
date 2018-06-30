@@ -1,3 +1,4 @@
+//Document.ready function to make sure the DOM has loaded
 $(function (){
 
 //Selecting color input
